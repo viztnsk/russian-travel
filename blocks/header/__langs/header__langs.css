@@ -1,0 +1,10 @@
+.header__langs {
+  display: flex;
+  list-style-type: none;
+  margin-bottom: 0;
+}
+@media screen and (max-width: 320px) {
+  .header__langs {
+    align-content: flex-end;
+  }
+}
