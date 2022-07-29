@@ -8,7 +8,7 @@
 @media screen and (max-width: 768px) {
   .place {
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: minmax(1fr, 340px) calc((100vw-340px)-32px);
+    grid-template-rows: minmax(1fr, 340px) calc((100vw - 340px) - 32px);
     gap: 32px;
   }
 }
