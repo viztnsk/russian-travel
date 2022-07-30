@@ -23,7 +23,7 @@
   .place {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: min-content minmax(1fr, 352px);
-    gap: 48px 28px;
+    gap: 48px 18px;
     margin-bottom: 70px;
   }
 }
