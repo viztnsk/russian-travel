@@ -8,8 +8,9 @@
   text-align: center;
   margin: 0 0 32px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 504px) {
   .cover__title {
+    max-width: 288px;
     font-size: 32px;
     line-height: 109%;
     margin: 0 0 16px;

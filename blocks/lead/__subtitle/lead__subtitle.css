@@ -6,7 +6,7 @@
   font-size: 30px;
   line-height: 120%;
   text-align: center;
-  align-content: center;
+  align-self: center;
   max-width: 640px;
 }
 @media screen and (max-width: 1024px) {
