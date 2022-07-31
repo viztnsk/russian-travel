@@ -8,13 +8,13 @@
   text-decoration: none;
   margin: 0;
 }
-.header__lang-link:last-child {
+.header__lang-link:last-of-type {
   margin-left: 18px;
 }
 .header__lang-link:hover {
   opacity: 0.8;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 335px) {
   .header__lang-link {
     font-size: 18px;
   }

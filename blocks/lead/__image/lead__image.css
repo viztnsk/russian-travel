@@ -3,11 +3,6 @@
   max-height: 615px;
   align-self: center;
 }
-@media screen and (max-width: 768px) {
-  .lead__image {
-    max-width: 100vw;
-  }
-}
 @media screen and (max-width: 320px) {
   .lead__image {
     margin-top: 40px;

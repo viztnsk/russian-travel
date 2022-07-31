@@ -2,8 +2,9 @@
   display: flex;
   list-style-type: none;
   margin-bottom: 0;
+  padding: 0;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 335px) {
   .header__langs {
     align-content: flex-end;
   }
