@@ -10,7 +10,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
     gap: 14px;
-    margin-bottom: 92px;
+    margin: 92px 48px 92px;
   }
 }
 @media screen and (max-width: 768px) {
