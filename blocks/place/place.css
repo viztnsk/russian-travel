@@ -27,7 +27,7 @@
     margin-bottom: 70px;
   }
 }
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 450px) {
   .place {
     grid-template-columns: repeat(1, minmax(min-content, max-content));
     grid-template-rows: repeat(4, minmax(min-content, max-content));

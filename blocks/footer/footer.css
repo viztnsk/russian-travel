@@ -18,10 +18,10 @@
 @media screen and (max-width: 768px) {
   .footer {
     max-width: 720px;
-    padding-top: 88px;
+    padding: 88px 10px 24px;
   }
 }
-@media screen and (min-width: 320px) and (max-width: 650px) {
+@media screen and (min-width: 320px) and (max-width: 685px) {
   .footer {
     max-width: 288px;
     padding-top: 64px;
